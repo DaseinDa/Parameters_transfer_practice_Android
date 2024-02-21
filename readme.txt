@@ -1,2 +1,1 @@
-41710035金鑫
-这是2020年移动技术与开发创业课程中写过和网上下载用到过的代码
+This is the practice for Android Development parameters transfer
